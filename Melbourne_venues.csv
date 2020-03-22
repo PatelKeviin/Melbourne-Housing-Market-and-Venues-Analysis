@@ -1,0 +1,465 @@
+,Street,Suburb,Latitude,Longitude,Venue,Venue Latitude,Venue Longitude,Venue Category
+0,Anderson Rd,Albion,-37.7852,144.8272,Cố Đô Vietnamese Restaurant,-37.78563893266505,144.83189060514147,Vietnamese Restaurant
+1,Anderson Rd,Albion,-37.7852,144.8272,Diamond Palace,-37.78590278492672,144.83189033846654,Chinese Restaurant
+2,Anderson Rd,Albion,-37.7852,144.8272,Pho Hien Saigon,-37.78465035669472,144.83217802794067,Vietnamese Restaurant
+3,Anderson Rd,Albion,-37.7852,144.8272,Fresh Chilli Deli,-37.78354473387687,144.83231315323997,Bakery
+4,Anderson Rd,Albion,-37.7852,144.8272,Afghan Master Kebab,-37.784865235658565,144.83267768743795,Afghan Restaurant
+5,Anderson Rd,Albion,-37.7852,144.8272,Thuan An Restaurant,-37.78436958255746,144.8321372206866,Vietnamese Restaurant
+6,Anderson Rd,Albion,-37.7852,144.8272,The Granary Cafe,-37.78492,144.83114,Café
+7,Anderson Rd,Albion,-37.7852,144.8272,Village Cinemas (Gold Class),-37.78211489165733,144.83116769996732,Movie Theater
+8,Anderson Rd,Albion,-37.7852,144.8272,Foodworks,-37.78658155416252,144.83011575574403,Supermarket
+9,Anderson Rd,Albion,-37.7852,144.8272,The Hotel Derrimut,-37.7882072,144.830412,Gastropub
+10,Anderson Rd,Albion,-37.7852,144.8272,Xuan banh cuon,-37.78644100515591,144.83190449405618,Asian Restaurant
+11,Anderson Rd,Albion,-37.7852,144.8272,Cafe Mambo,-37.78190014995593,144.8308446597307,Restaurant
+12,Anderson Rd,Albion,-37.7852,144.8272,Dragon Express,-37.787675555354554,144.83142662118198,Chinese Restaurant
+13,Anderson Rd,Albion,-37.7852,144.8272,Thuan Hung Asian Grocery,-37.78445,144.83245,Grocery Store
+14,Anderson Rd,Albion,-37.7852,144.8272,Platnium Health & Pilates,-37.7808,144.82787,Gym
+15,Lidgett St,Bacchus Marsh,-37.67344,144.43181,Baby Black Espresso Bar,-37.6744552441576,144.43631721757765,Café
+16,Lidgett St,Bacchus Marsh,-37.67344,144.43181,Foodworks,-37.67407025969589,144.43688038204198,Supermarket
+17,Lidgett St,Bacchus Marsh,-37.67344,144.43181,Kfc Bacchus Marsh,-37.674313,144.436356,Fast Food Restaurant
+18,Lidgett St,Bacchus Marsh,-37.67344,144.43181,McDonald's,-37.6740933300076,144.43605341576185,Fast Food Restaurant
+19,Lidgett St,Bacchus Marsh,-37.67344,144.43181,Loot Bar And Cafe,-37.675557,144.436626,Café
+20,Jersey Pde,Carnegie,-37.8875,145.0599,Shyun Japanese Restaurant,-37.88846564814415,145.0572250795821,Japanese Restaurant
+21,Jersey Pde,Carnegie,-37.8875,145.0599,Grill'd,-37.88738965412506,145.05749441565882,Burger Joint
+22,Jersey Pde,Carnegie,-37.8875,145.0599,Huff Bagelry,-37.88816813694226,145.057268641055,Bagel Shop
+23,Jersey Pde,Carnegie,-37.8875,145.0599,Mrs Kim's Grill,-37.888670138766116,145.05715963915299,Korean Restaurant
+24,Jersey Pde,Carnegie,-37.8875,145.0599,Koornang Hot Bread,-37.88811,145.05747,Bakery
+25,Jersey Pde,Carnegie,-37.8875,145.0599,Gabriella Pizza,-37.88892198107962,145.0570947042128,Pizza Place
+26,Jersey Pde,Carnegie,-37.8875,145.0599,Figjam Cafe,-37.88848019214887,145.05718446659444,Coffee Shop
+27,Jersey Pde,Carnegie,-37.8875,145.0599,Eastern Dumpling House,-37.888608150991,145.05720049945015,Dumpling Restaurant
+28,Jersey Pde,Carnegie,-37.8875,145.0599,Petaling Street,-37.88768931607322,145.05744585746356,Malay Restaurant
+29,Jersey Pde,Carnegie,-37.8875,145.0599,Platform 3,-37.885512910231064,145.0575916103754,Breakfast Spot
+30,Jersey Pde,Carnegie,-37.8875,145.0599,Woolworths,-37.88772687793823,145.05625869320303,Supermarket
+31,Jersey Pde,Carnegie,-37.8875,145.0599,Paradai I,-37.886910749022675,145.05743164260315,Thai Restaurant
+32,Jersey Pde,Carnegie,-37.8875,145.0599,Aldi,-37.88474178811528,145.05840869662626,Supermarket
+33,Jersey Pde,Carnegie,-37.8875,145.0599,Shyun Ramen Bar,-37.88689629262909,145.05746711968743,Ramen Restaurant
+34,Jersey Pde,Carnegie,-37.8875,145.0599,Spilt Milk Cafe,-37.889032755892764,145.0566641054365,Café
+35,Jersey Pde,Carnegie,-37.8875,145.0599,Paradai Thai II,-37.88681301223602,145.0574932131048,Thai Restaurant
+36,Jersey Pde,Carnegie,-37.8875,145.0599,Woolworths,-37.88437303743907,145.0583911526246,Supermarket
+37,Jersey Pde,Carnegie,-37.8875,145.0599,Auntie's Dumplings Restaurant,-37.88691740076393,145.05749481015843,Dumpling Restaurant
+38,Jersey Pde,Carnegie,-37.8875,145.0599,Red Cliff Sechuan Chinese Restaurant,-37.889794,145.062007,Chinese Restaurant
+39,Jersey Pde,Carnegie,-37.8875,145.0599,Roule Galette,-37.88793,145.05749,Creperie
+40,Jersey Pde,Carnegie,-37.8875,145.0599,Kimchi Grandma,-37.88857857090229,145.05712109802457,Korean Restaurant
+41,Jersey Pde,Carnegie,-37.8875,145.0599,Santucci's Cafe,-37.88765416301787,145.05739181394713,Café
+42,Jersey Pde,Carnegie,-37.8875,145.0599,Carnegie Central Shopping Centre,-37.88450821601903,145.05838432995523,Shopping Mall
+43,Jersey Pde,Carnegie,-37.8875,145.0599,Nando's,-37.88828649279222,145.0572395000012,Portuguese Restaurant
+44,Jersey Pde,Carnegie,-37.8875,145.0599,Pho 66,-37.88688149188376,145.05753129583806,Vietnamese Restaurant
+45,Jersey Pde,Carnegie,-37.8875,145.0599,J.J Express,-37.88730529000054,145.0574865187601,Asian Restaurant
+46,Jersey Pde,Carnegie,-37.8875,145.0599,Kuala Lumpur Restaurant,-37.88852983997594,145.05713913231682,Malay Restaurant
+47,Jersey Pde,Carnegie,-37.8875,145.0599,Ramen & Dumpling House,-37.88865,145.05737,Asian Restaurant
+48,Jersey Pde,Carnegie,-37.8875,145.0599,Subway,-37.884332945543804,145.0582116018573,Sandwich Place
+49,Jersey Pde,Carnegie,-37.8875,145.0599,Carnegie Station,-37.88639864788792,145.05863510509465,Train Station
+50,Jersey Pde,Carnegie,-37.8875,145.0599,Spotlight,-37.884749923935736,145.0583765005903,Arts & Crafts Store
+51,Jersey Pde,Carnegie,-37.8875,145.0599,The Rosstown,-37.88441688683822,145.05798308202478,Pub
+52,Jersey Pde,Carnegie,-37.8875,145.0599,Bakers Delight,-37.88787,145.05751,Bakery
+53,Jersey Pde,Carnegie,-37.8875,145.0599,Russian Tidbits,-37.88819,145.05707,Russian Restaurant
+54,Jersey Pde,Carnegie,-37.8875,145.0599,Tailored,-37.885497,145.05769,Café
+55,Pyne St,Caulfield,-37.8864,145.0242,Forth Brother,-37.8867,145.02153,Café
+56,Pyne St,Caulfield,-37.8864,145.0242,7-Eleven,-37.886325554766955,145.0221840963056,Convenience Store
+57,Pyne St,Caulfield,-37.8864,145.0242,Domino's Pizza,-37.88548190625604,145.02195173937565,Pizza Place
+58,Pyne St,Caulfield,-37.8864,145.0242,London Tavern,-37.88963956335763,145.02133380122677,Pub
+59,Pyne St,Caulfield,-37.8864,145.0242,FoodWorks (Caulfield South),-37.88674605712965,145.02204053505395,Grocery Store
+60,Pyne St,Caulfield,-37.8864,145.0242,Portofino Pizza,-37.88767,145.0268,Pizza Place
+61,Pyne St,Caulfield,-37.8864,145.0242,Schwartz's Crossfit Melbourne,-37.887774833967086,145.02853023108048,Gym
+62,Tattenham St,Caulfield East,-37.88299,145.04711,Boost Juice,-37.879259,145.048247,Juice Bar
+63,Tattenham St,Caulfield East,-37.88299,145.04711,Granger,-37.885067,145.047193,Breakfast Spot
+64,Tattenham St,Caulfield East,-37.88299,145.04711,Glen Waverley Train: City <=> Glen Waverley,-37.880737166249794,145.0481289936793,Train
+65,Tattenham St,Caulfield East,-37.88299,145.04711,Cheaper Car Rentals,-37.881393,145.049577,Rental Car Location
+66,Venus St,Caulfield South,-37.8943,145.0145,The Laundry Hamper,-37.89382189601435,145.01370490624163,Laundromat
+67,Venus St,Caulfield South,-37.8943,145.0145,Studio 404 Personal Training,-37.892058,145.014283,Recreation Center
+68,Venus St,Caulfield South,-37.8943,145.0145,White Lotus Yoga Centre,-37.89809,145.01621,Yoga Studio
+69,Rufus St,Epping,-37.64888,145.02313,T.G.I. Friday's,-37.65230638621657,145.0198661014047,American Restaurant
+70,Rufus St,Epping,-37.64888,145.02313,The Cheesecake Shop,-37.64911,145.02575,Dessert Shop
+71,Rufus St,Epping,-37.64888,145.02313,Hungry Jack's,-37.65227734890947,145.02282132919115,Fast Food Restaurant
+72,Rufus St,Epping,-37.64888,145.02313,Target,-37.653030770467836,145.02114979844563,Big Box Store
+73,Rufus St,Epping,-37.64888,145.02313,TGIF Epping,-37.65220483321586,145.01961348526984,American Restaurant
+74,Cowper St,Footscray,-37.8053,144.9029,Station Hotel,-37.80456677659811,144.90135841127199,Pub
+75,Cowper St,Footscray,-37.8053,144.9029,Footscray Milking Station,-37.80287037221174,144.90386790850928,Café
+76,Cowper St,Footscray,-37.8053,144.9029,Trailer Park,-37.80499218262336,144.90270825549925,Food Truck
+77,Cowper St,Footscray,-37.8053,144.9029,Katarina Zrinski (The Croatian Club),-37.80413,144.90438,Eastern European Restaurant
+78,Cowper St,Footscray,-37.8053,144.9029,Footscray Community Arts Centre,-37.80314499347166,144.9074609245847,Art Gallery
+79,Cowper St,Footscray,-37.8053,144.9029,Café Cui,-37.80140867444738,144.90094028399963,Café
+80,Cowper St,Footscray,-37.8053,144.9029,Thien An,-37.8016442998416,144.9006132077091,Vietnamese Restaurant
+81,Cowper St,Footscray,-37.8053,144.9029,Happy River Cafe,-37.80292924780886,144.9072226016391,Café
+82,Cowper St,Footscray,-37.8053,144.9029,BP,-37.80865512,144.90215801,Gas Station
+83,Cowper St,Footscray,-37.8053,144.9029,Subway,-37.80144439126071,144.90095637261882,Sandwich Place
+84,Cowper St,Footscray,-37.8053,144.9029,ChaTime (日出茶太),-37.801364,144.901294,Bubble Tea Shop
+85,Eldridge St,Footscray,-37.7907,144.8924,Charlies Pizza Resturant,-37.79258729776565,144.89363164250068,Italian Restaurant
+86,Eldridge St,Footscray,-37.7907,144.8924,Footscray IGA,-37.79142698647733,144.889617390213,Grocery Store
+87,Eldridge St,Footscray,-37.7907,144.8924,Pizza Hut,-37.7913,144.88914,Pizza Place
+88,Eldridge St,Footscray,-37.7907,144.8924,Action Indoor Gordon St,-37.788388086073944,144.88994614484352,Athletics & Sports
+89,Empire St,Footscray,-37.7891,144.8912,Thai Thonglor 55,-37.78488179516271,144.89193139134545,Thai Restaurant
+90,Empire St,Footscray,-37.7891,144.8912,Charlies Pizza Resturant,-37.79258729776565,144.89363164250068,Italian Restaurant
+91,Empire St,Footscray,-37.7891,144.8912,Desserts By Night,-37.784937095152536,144.89184706808126,Dessert Shop
+92,Empire St,Footscray,-37.7891,144.8912,Footscray IGA,-37.79142698647733,144.889617390213,Grocery Store
+93,Empire St,Footscray,-37.7891,144.8912,Action Indoor Gordon St,-37.788388086073944,144.88994614484352,Athletics & Sports
+94,Empire St,Footscray,-37.7891,144.8912,Pizza Hut,-37.7913,144.88914,Pizza Place
+95,Empire St,Footscray,-37.7891,144.8912,Shinmai Japanese Restaurant,-37.78531,144.89197,Restaurant
+96,Empire St,Footscray,-37.7891,144.8912,Rock Fish,-37.785095,144.892508,Burger Joint
+97,Empire St,Footscray,-37.7891,144.8912,Sambal Kampung,-37.78504908654995,144.89244090483638,Chinese Restaurant
+98,Empire St,Footscray,-37.7891,144.8912,Quarry park,-37.78720153515389,144.8959964859592,Park
+99,Empire St,Footscray,-37.7891,144.8912,Lazy Moe's,-37.78505543831817,144.8908091418407,Restaurant
+100,Empire St,Footscray,-37.7891,144.8912,Be.K,-37.784706,144.892248,Dessert Shop
+101,Rosedale Av,Glen Huntly,-37.89092,145.04391999999999,Workshop Brothers Specialty Coffee,-37.889531,145.041711,Café
+102,Rosedale Av,Glen Huntly,-37.89092,145.04391999999999,The Servery,-37.890122,145.042575,Café
+103,Rosedale Av,Glen Huntly,-37.89092,145.04391999999999,Indo Sari,-37.88948626826679,145.042726159742,Asian Restaurant
+104,Rosedale Av,Glen Huntly,-37.89092,145.04391999999999,Roti &  Roti,-37.889166,145.04154,Malay Restaurant
+105,Rosedale Av,Glen Huntly,-37.89092,145.04391999999999,Whyte Cafe,-37.8892643665744,145.04098136264523,Café
+106,Rosedale Av,Glen Huntly,-37.89092,145.04391999999999,Quality Indian Groceries,-37.88942,145.04086,Grocery Store
+107,Rosedale Av,Glen Huntly,-37.89092,145.04391999999999,Subway,-37.889582,145.044555,Sandwich Place
+108,Rosedale Av,Glen Huntly,-37.89092,145.04391999999999,Woolworths,-37.88890820615899,145.04089378080468,Supermarket
+109,Rosedale Av,Glen Huntly,-37.89092,145.04391999999999,Tram Stop 61 - Glenhuntly Station (67),-37.88939915313952,145.0423476095687,Light Rail Station
+110,Belmont Av,Glen Iris,-37.8574,145.04795,Harold Holt Swim Centre,-37.85863113133593,145.04685514153908,Pool
+111,Belmont Av,Glen Iris,-37.8574,145.04795,Tram Stop 49,-37.8586023892961,145.04477401283293,Tram Station
+112,Belmont Av,Glen Iris,-37.8574,145.04795,Tram Stop 48,-37.853642,145.045752,Light Rail Station
+113,Belmont Av,Glen Iris,-37.8574,145.04795,Mamma Mia,-37.85368,145.04478,Pizza Place
+114,Currajong St,Glenroy,-37.711,144.9178,Coles,-37.713834,144.918352,Supermarket
+115,Park St,Hawthorn,-37.8198,145.0373,Lido Cinema,-37.82049753583545,145.03543181055295,Indie Movie Theater
+116,Park St,Hawthorn,-37.8198,145.0373,Readings,-37.819817205044245,145.03585581513752,Bookstore
+117,Park St,Hawthorn,-37.8198,145.0373,Yo-Chi,-37.8205708587748,145.0357516778243,Frozen Yogurt Shop
+118,Park St,Hawthorn,-37.8198,145.0373,Cupcake Central,-37.821202878974894,145.03592671917502,Cupcake Shop
+119,Park St,Hawthorn,-37.8198,145.0373,iSpicy,-37.82062419148038,145.03626340762136,Thai Restaurant
+120,Park St,Hawthorn,-37.8198,145.0373,Oscar Mike,-37.82128855946367,145.03618451074965,Coffee Shop
+121,Park St,Hawthorn,-37.8198,145.0373,Vaporetto,-37.820391,145.035131,Italian Restaurant
+122,Park St,Hawthorn,-37.8198,145.0373,Spudbar,-37.819618,145.035739,Australian Restaurant
+123,Park St,Hawthorn,-37.8198,145.0373,Hawthorn Aquatic & Leisure Centre (YMCA),-37.820945115756444,145.03467587950774,Gym / Fitness Center
+124,Park St,Hawthorn,-37.8198,145.0373,Samurai,-37.81763053527002,145.03624979919655,Japanese Restaurant
+125,Park St,Hawthorn,-37.8198,145.0373,Piccolina Gelateria,-37.8177,145.03645,Ice Cream Shop
+126,Park St,Hawthorn,-37.8198,145.0373,Chef Lagenda,-37.81954660431219,145.03600319615316,Malay Restaurant
+127,Park St,Hawthorn,-37.8198,145.0373,Liar Liar,-37.81711780181359,145.03616013386915,Café
+128,Park St,Hawthorn,-37.8198,145.0373,Spanish Doughnuts,-37.82012575790956,145.03586690003078,Dessert Shop
+129,Park St,Hawthorn,-37.8198,145.0373,Lulo,-37.81779,145.03643,Spanish Restaurant
+130,Park St,Hawthorn,-37.8198,145.0373,Chatime (日出茶太),-37.821650034241166,145.03557371657178,Bubble Tea Shop
+131,Park St,Hawthorn,-37.8198,145.0373,Chapel Bakery Cafe,-37.817917703405016,145.03619460612973,Café
+132,Park St,Hawthorn,-37.8198,145.0373,Zen Japanese Restaurant,-37.82279112398013,145.03726610213144,Japanese Restaurant
+133,Park St,Hawthorn,-37.8198,145.0373,Small Patch Wine Store,-37.8227,145.03505,Liquor Store
+134,Park St,Hawthorn,-37.8198,145.0373,Axil Coffee Roasters,-37.82250587677522,145.03434285550443,Café
+135,Park St,Hawthorn,-37.8198,145.0373,Short Straw,-37.81832,145.03593,Breakfast Spot
+136,Park St,Hawthorn,-37.8198,145.0373,Fonda Mexican,-37.82116982438993,145.0355751169689,Mexican Restaurant
+137,Park St,Hawthorn,-37.8198,145.0373,Viet Star,-37.81897232036278,145.03608576015205,Vietnamese Restaurant
+138,Park St,Hawthorn,-37.8198,145.0373,Hooked,-37.82066,145.03554,Seafood Restaurant
+139,Park St,Hawthorn,-37.8198,145.0373,Schnitz,-37.82122222707423,145.03568164980024,Fast Food Restaurant
+140,Park St,Hawthorn,-37.8198,145.0373,Ribs and Burgers,-37.81555166577277,145.0367167785468,BBQ Joint
+141,Park St,Hawthorn,-37.8198,145.0373,Grill'd,-37.818858447167955,145.03617013684712,Burger Joint
+142,Park St,Hawthorn,-37.8198,145.0373,Humburger,-37.81663532303712,145.03644444506014,Burger Joint
+143,Park St,Hawthorn,-37.8198,145.0373,Bay City Burrito,-37.81627964666231,145.0365933586936,Mexican Restaurant
+144,Park St,Hawthorn,-37.8198,145.0373,Laguna Oriental & Indonesian Supermarket,-37.81846072248005,145.03613957151828,Grocery Store
+145,Park St,Hawthorn,-37.8198,145.0373,Central Gardens,-37.821178,145.041358,Park
+146,Park St,Hawthorn,-37.8198,145.0373,Bewon,-37.82196920706009,145.03558028959122,Korean Restaurant
+147,Park St,Hawthorn,-37.8198,145.0373,Santoni Pizza Bar,-37.8227242778316,145.03538935615697,Pizza Place
+148,Park St,Hawthorn,-37.8198,145.0373,The Hawthorn Hotel,-37.82309403291598,145.03997194993084,Beer Garden
+149,Park St,Hawthorn,-37.8198,145.0373,Ajisen Ramen 味千ラーメン,-37.8227272189796,145.03620215388432,Ramen Restaurant
+150,Park St,Hawthorn,-37.8198,145.0373,Alley Tunes,-37.82163607149206,145.03614772855246,Record Shop
+151,Park St,Hawthorn,-37.8198,145.0373,By Basia,-37.82334,145.04031,Café
+152,Park St,Hawthorn,-37.8198,145.0373,Boost Juice,-37.82016992510741,145.03579177739604,Juice Bar
+153,Park St,Hawthorn,-37.8198,145.0373,Cones,-37.81631815563045,145.0365361887879,Ice Cream Shop
+154,Park St,Hawthorn,-37.8198,145.0373,Beer DeLuxe,-37.822432208101596,145.03376366890404,Bar
+155,Park St,Hawthorn,-37.8198,145.0373,Tokyo Table,-37.82243,145.03559,Japanese Restaurant
+156,Park St,Hawthorn,-37.8198,145.0373,Red Bean,-37.82296651477745,145.038705,Malay Restaurant
+157,Park St,Hawthorn,-37.8198,145.0373,Nevermind Bar,-37.822754831849856,145.03482184845078,Speakeasy
+158,Park St,Hawthorn,-37.8198,145.0373,Subway,-37.820902908115805,145.0357626622356,Sandwich Place
+159,Park St,Hawthorn,-37.8198,145.0373,Cafe Blac,-37.81948988023235,145.0359201426133,Café
+160,Park St,Hawthorn,-37.8198,145.0373,Sapa Hills II,-37.82341249184148,145.03514426032834,Vietnamese Restaurant
+161,Park St,Hawthorn,-37.8198,145.0373,7-Eleven,-37.82116741768148,145.0356712100641,Convenience Store
+162,Park St,Hawthorn,-37.8198,145.0373,Nelayan Indonesian Restaurant,-37.81849292488859,145.03616535522903,Indonesian Restaurant
+163,Park St,Hawthorn,-37.8198,145.0373,Gami Chicken & Beer,-37.81616,145.03675,Fried Chicken Joint
+164,Park St,Hawthorn,-37.8198,145.0373,Rococo Restaurant,-37.816169015310095,145.03647669408906,Italian Restaurant
+165,Park St,Hawthorn,-37.8198,145.0373,Bread & Jam For Frances,-37.81977216940053,145.03520997547332,Café
+166,Park St,Hawthorn,-37.8198,145.0373,bagelicious,-37.82212,145.03565,Bagel Shop
+167,Park St,Hawthorn,-37.8198,145.0373,Woolworths,-37.82081081197065,145.03628737755082,Supermarket
+168,Park St,Hawthorn,-37.8198,145.0373,Sushi Sushi,-37.82028949759591,145.0358467261623,Sushi Restaurant
+169,Park St,Hawthorn,-37.8198,145.0373,Izakaya Jiro,-37.81649029969954,145.0365206333152,Japanese Restaurant
+170,Park St,Hawthorn,-37.8198,145.0373,Huxtaburger,-37.8204407316341,145.03567459963713,Burger Joint
+171,Park St,Hawthorn,-37.8198,145.0373,O'Sha Thai Kitchen,-37.821333704313524,145.0362391008704,Thai Restaurant
+172,Park St,Hawthorn,-37.8198,145.0373,Hawthorn Common,-37.8225104077284,145.0341463989796,Breakfast Spot
+173,Park St,Hawthorn,-37.8198,145.0373,KFC,-37.82188,145.03569,Fast Food Restaurant
+174,Park St,Hawthorn,-37.8198,145.0373,Knead Bakers,-37.82303,145.03758,Bakery
+175,Park St,Hawthorn,-37.8198,145.0373,Dumpling King,-37.821888,145.03563,Dumpling Restaurant
+176,Park St,Hawthorn,-37.8198,145.0373,Domino's Pizza,-37.81540965943032,145.03681959778993,Pizza Place
+177,Park St,Hawthorn,-37.8198,145.0373,Mind Games,-37.81867,145.03627,Hobby Shop
+178,Park St,Hawthorn,-37.8198,145.0373,La Tropezienne Patisserie,-37.81824320246274,145.03613533759287,Café
+179,Park St,Hawthorn,-37.8198,145.0373,Student Lounge Tafe,-37.82074027356341,145.03834151439537,College Cafeteria
+180,Park St,Hawthorn,-37.8198,145.0373,Glenferrie Hotel,-37.82259782343546,145.03449377896195,Pub
+181,Park St,Hawthorn,-37.8198,145.0373,Video Ezy,-37.81747,145.0365,Video Store
+182,Park St,Hawthorn,-37.8198,145.0373,Atrium Café,-37.82222879200925,145.0393238095952,Coffee Shop
+183,Park St,Hawthorn,-37.8198,145.0373,The Pastry Kitchen,-37.81642,145.0367,Café
+184,Park St,Hawthorn,-37.8198,145.0373,Spice Lounge,-37.8232,145.03904,Indian Restaurant
+185,Lewis St,Kingsville,-37.8096,144.874,Red Tomato Cafe,-37.81168006810144,144.8739250653811,Italian Restaurant
+186,Lewis St,Kingsville,-37.8096,144.874,Hungry Jack's,-37.81111241207527,144.87090365609706,Fast Food Restaurant
+187,Lewis St,Kingsville,-37.8096,144.874,Cruickshank Park/ Stony Creek Walk,-37.81123155727573,144.8702560151497,Park
+188,Lewis St,Kingsville,-37.8096,144.874,MANOK For The Love Of Chicken,-37.81148,144.87036,Fast Food Restaurant
+189,Lewis St,Kingsville,-37.8096,144.874,Pizza Del Sole,-37.811405249414065,144.870051885318,Pizza Place
+190,Lewis St,Kingsville,-37.8096,144.874,Happymaree,-37.812273,144.8781,Café
+191,Flinders La,Melbourne,-37.8199,144.9558,Virgin Active Health Club,-37.81880644153783,144.95591708903513,Gym / Fitness Center
+192,Flinders La,Melbourne,-37.8199,144.9558,The Grain Store,-37.819562,144.956819,Café
+193,Flinders La,Melbourne,-37.8199,144.9558,Grill'd,-37.819022564387545,144.9535596370697,Burger Joint
+194,Flinders La,Melbourne,-37.8199,144.9558,The Lui Bar,-37.81906738205684,144.95773924021475,Cocktail Bar
+195,Flinders La,Melbourne,-37.8199,144.9558,Vue De Monde,-37.818534387801776,144.9574112892151,French Restaurant
+196,Flinders La,Melbourne,-37.8199,144.9558,Purple Peanuts Japanese Cafe,-37.81897004234989,144.9545457431695,Japanese Restaurant
+197,Flinders La,Melbourne,-37.8199,144.9558,5 and Dime Bagel,-37.819941688673374,144.956597401988,Bagel Shop
+198,Flinders La,Melbourne,-37.8199,144.9558,Bonnie Coffee Brewers,-37.81815281375645,144.95763595886933,Coffee Shop
+199,Flinders La,Melbourne,-37.8199,144.9558,Brim CC,-37.81776439725284,144.9547316047721,Japanese Restaurant
+200,Flinders La,Melbourne,-37.8199,144.9558,St Ali Mercedes me,-37.818409507023354,144.95680986953414,Coffee Shop
+201,Flinders La,Melbourne,-37.8199,144.9558,Hardware Societé,-37.820053,144.95659,Café
+202,Flinders La,Melbourne,-37.8199,144.9558,Don Don,-37.81817439200319,144.9560180131117,Japanese Restaurant
+203,Flinders La,Melbourne,-37.8199,144.9558,Delhi Streets,-37.81987865565957,144.95654325779225,Chaat Place
+204,Flinders La,Melbourne,-37.8199,144.9558,Chick-In,-37.81867,144.95427,Fried Chicken Joint
+205,Flinders La,Melbourne,-37.8199,144.9558,InterContinental Melbourne The Rialto,-37.818573425382944,144.95782288633472,Hotel
+206,Flinders La,Melbourne,-37.8199,144.9558,Haigh's Chocolates,-37.81808722721517,144.95792520419096,Candy Store
+207,Flinders La,Melbourne,-37.8199,144.9558,Royal Stacks,-37.81786745504662,144.95848869266086,Burger Joint
+208,Flinders La,Melbourne,-37.8199,144.9558,Rex Tremendae,-37.81976684940492,144.95577878014674,Coffee Shop
+209,Flinders La,Melbourne,-37.8199,144.9558,Mason Dixon American Sandwich Bar,-37.81775,144.95798,Sandwich Place
+210,Flinders La,Melbourne,-37.8199,144.9558,Rare Steakhouse,-37.819314720800904,144.95725113241716,Steakhouse
+211,Flinders La,Melbourne,-37.8199,144.9558,RACV Club,-37.8184368,144.9575016,Social Club
+212,Flinders La,Melbourne,-37.8199,144.9558,Pallet Espresso,-37.818728,144.954618,Café
+213,Flinders La,Melbourne,-37.8199,144.9558,Gami Chicken & Beer,-37.81947192581399,144.95723582900592,Korean Restaurant
+214,Flinders La,Melbourne,-37.8199,144.9558,LB2,-37.817188330293625,144.95666831378213,Coffee Shop
+215,Flinders La,Melbourne,-37.8199,144.9558,CBD Kebabs,-37.82087277279324,144.95617318064242,Kebab Restaurant
+216,Flinders La,Melbourne,-37.8199,144.9558,Kinfolk,-37.81699648251674,144.95383617940652,Café
+217,Flinders La,Melbourne,-37.8199,144.9558,SEA LIFE Melbourne Aquarium,-37.8207332257574,144.9582069828034,Aquarium
+218,Flinders La,Melbourne,-37.8199,144.9558,Choix Creperie Cafe,-37.818927773309035,144.9546147888779,French Restaurant
+219,Flinders La,Melbourne,-37.8199,144.9558,Altius Coffee,-37.81953929444152,144.95660720123036,Coffee Shop
+220,Flinders La,Melbourne,-37.8199,144.9558,Kass Kass,-37.820006,144.958096,Korean Restaurant
+221,Flinders La,Melbourne,-37.8199,144.9558,Cafenatics,-37.81751867892131,144.9576955367793,Café
+222,Flinders La,Melbourne,-37.8199,144.9558,Spicy Korea,-37.817785617338735,144.95479614792993,Fried Chicken Joint
+223,Flinders La,Melbourne,-37.8199,144.9558,Crown Promenade,-37.82166891685837,144.96035367250443,Plaza
+224,Flinders La,Melbourne,-37.8199,144.9558,Crown Towers,-37.8234367,144.9580861,Hotel
+225,Flinders La,Melbourne,-37.8199,144.9558,Rockpool Bar & Grill,-37.822042,144.960127,Australian Restaurant
+226,Flinders La,Melbourne,-37.8199,144.9558,Espresso Hub,-37.81919164649277,144.95376348427976,Coffee Shop
+227,Flinders La,Melbourne,-37.8199,144.9558,Mr. Fusion Cafe,-37.81714495122924,144.956966994623,Japanese Restaurant
+228,Flinders La,Melbourne,-37.8199,144.9558,Buddabah,-37.818690560539395,144.95568043393897,Café
+229,Flinders La,Melbourne,-37.8199,144.9558,Gradi,-37.822724257553475,144.95813169704476,Italian Restaurant
+230,Flinders La,Melbourne,-37.8199,144.9558,Cherry & Twigs,-37.819994,144.955713,Coffee Shop
+231,Flinders La,Melbourne,-37.8199,144.9558,Olivier's Cafe,-37.820707289988064,144.95498064994663,Café
+232,Flinders La,Melbourne,-37.8199,144.9558,Saravana Bhavan,-37.81695042350142,144.95595469668822,South Indian Restaurant
+233,Flinders La,Melbourne,-37.8199,144.9558,Spice Temple,-37.82188454426879,144.95973362511145,Chinese Restaurant
+234,Flinders La,Melbourne,-37.8199,144.9558,The Den,-37.822355755450644,144.95890293002498,Cocktail Bar
+235,Flinders La,Melbourne,-37.8199,144.9558,Nando's,-37.820824847130524,144.95603033588566,Portuguese Restaurant
+236,Flinders La,Melbourne,-37.8199,144.9558,Goz City,-37.816966155096964,144.95757451868707,Turkish Restaurant
+237,Flinders La,Melbourne,-37.8199,144.9558,T by Luxbite,-37.81959510614271,144.95628733931292,Dessert Shop
+238,Flinders La,Melbourne,-37.8199,144.9558,Kedai Satay,-37.81574254409349,144.95549314600848,Indonesian Restaurant
+239,Flinders La,Melbourne,-37.8199,144.9558,Higher Ground,-37.81599506329736,144.953028561221,Café
+240,Flinders La,Melbourne,-37.8199,144.9558,Atrium Bar,-37.82235407890874,144.95983516312162,Bar
+241,Flinders La,Melbourne,-37.8199,144.9558,Koko,-37.82209078518305,144.95974839753794,Japanese Restaurant
+242,Flinders La,Melbourne,-37.8199,144.9558,Rosetta,-37.82140335888339,144.96047119945374,Italian Restaurant
+243,Flinders La,Melbourne,-37.8199,144.9558,Nobu,-37.822025,144.959727,Japanese Restaurant
+244,Flinders La,Melbourne,-37.8199,144.9558,Merchant Osteria Veneta,-37.81867569206975,144.95790165147324,Italian Restaurant
+245,Flinders La,Melbourne,-37.8199,144.9558,South Wharf,-37.822687985706125,144.95439990563895,Plaza
+246,Flinders La,Melbourne,-37.8199,144.9558,Piccolocino,-37.81683396013202,144.95659123111108,Café
+247,Flinders La,Melbourne,-37.8199,144.9558,Schnitz,-37.816997753996944,144.95308125451157,Fast Food Restaurant
+248,Flinders La,Melbourne,-37.8199,144.9558,Crown Entertainment Complex,-37.82345778770175,144.9580780207007,Casino
+249,Flinders La,Melbourne,-37.8199,144.9558,Pok Pok Junior,-37.816241631064564,144.95838540491263,Thai Restaurant
+250,Flinders La,Melbourne,-37.8199,144.9558,Hugo's Expresso,-37.817794600349096,144.95464803297347,Coffee Shop
+251,Flinders La,Melbourne,-37.8199,144.9558,Bambini Barrista,-37.8170147976238,144.95685439300985,Café
+252,Flinders La,Melbourne,-37.8199,144.9558,Saint & Rogue,-37.8175116068686,144.95549102240113,Pub
+253,Flinders La,Melbourne,-37.8199,144.9558,The Atlantic,-37.822465,144.958914,Seafood Restaurant
+254,Flinders La,Melbourne,-37.8199,144.9558,Mahogany Room,-37.8216871178352,144.96050867633758,Casino
+255,Flinders La,Melbourne,-37.8199,144.9558,Byblos,-37.822662,144.9538,Lebanese Restaurant
+256,Flinders La,Melbourne,-37.8199,144.9558,Bistro Guillaume,-37.82204255892,144.9592744655837,French Restaurant
+257,Flinders La,Melbourne,-37.8199,144.9558,Saluministi,-37.81821962428019,144.9610533664612,Sandwich Place
+258,Flinders La,Melbourne,-37.8199,144.9558,Oli & Levi,-37.8176728413608,144.95945398209957,Coffee Shop
+259,Flinders La,Melbourne,-37.8199,144.9558,Immigration Museum,-37.81949483475956,144.96037363808205,History Museum
+260,Flinders La,Melbourne,-37.8199,144.9558,Henry & The Fox,-37.8171321726609,144.9572577558693,Restaurant
+261,Flinders La,Melbourne,-37.8199,144.9558,St. Brew,-37.81974,144.95108,Café
+262,Flinders La,Melbourne,-37.8199,144.9558,Simply Spanish,-37.81620760548461,144.9584106917873,Spanish Restaurant
+263,Flinders La,Melbourne,-37.8199,144.9558,Lumia,-37.82329637408302,144.95725931193078,Bar
+264,Flinders La,Melbourne,-37.8199,144.9558,The School of Life,-37.816691,144.9535917,School
+265,Flinders La,Melbourne,-37.8199,144.9558,Yuzu Café & Cuisine,-37.8176002023829,144.95776502304435,Japanese Restaurant
+266,Flinders La,Melbourne,-37.8199,144.9558,Woodo Korean BBQ,-37.8158295862535,144.95551695159443,Korean Restaurant
+267,Flinders La,Melbourne,-37.8199,144.9558,Cotta,-37.823370272436144,144.95738391577405,Café
+268,Flinders La,Melbourne,-37.8199,144.9558,Kinship & Co.,-37.81685581353511,144.95655810266334,Café
+269,Flinders La,Melbourne,-37.8199,144.9558,Pie Face,-37.81856676190692,144.95350728795455,Bakery
+270,Flinders La,Melbourne,-37.8199,144.9558,Green Press,-37.81702,144.957221,Juice Bar
+271,Flinders La,Melbourne,-37.8199,144.9558,Pho N Roll,-37.81777,144.9554,Vietnamese Restaurant
+272,Flinders La,Melbourne,-37.8199,144.9558,Brioche by Phillip,-37.816914161171,144.95778172043433,Bakery
+273,Flinders La,Melbourne,-37.8199,144.9558,Vibe Savoy Hotel,-37.81792220341256,144.95374692542939,Hotel
+274,Flinders La,Melbourne,-37.8199,144.9558,Etto,-37.81603,144.95783,Italian Restaurant
+275,Flinders La,Melbourne,-37.8199,144.9558,Doughboys,-37.81574444310418,144.95786582862155,Donut Shop
+276,Flinders La,Melbourne,-37.8199,144.9558,Hanabishi 花菱 (Hanabishi),-37.81564127585877,144.95550762513722,Sushi Restaurant
+277,Flinders La,Melbourne,-37.8199,144.9558,Perkup Cafe and Burger Bar,-37.81894531536534,144.95468357158683,Burger Joint
+278,Flinders La,Melbourne,-37.8199,144.9558,7-Eleven,-37.81861,144.95499,Convenience Store
+279,Flinders La,Melbourne,-37.8199,144.9558,Starbucks,-37.817277235977535,144.95254335735842,Coffee Shop
+280,Flinders La,Melbourne,-37.8199,144.9558,Alto Hotel on Bourke,-37.81653267647912,144.95461922361318,Hotel
+281,Flinders La,Melbourne,-37.8199,144.9558,Lord Of The Fries,-37.817321795358374,144.95248443391478,Fast Food Restaurant
+282,Flinders La,Melbourne,-37.8199,144.9558,Krispy Kreme,-37.81894138923918,144.95465990380373,Donut Shop
+283,Flinders La,Melbourne,-37.8199,144.9558,Guzman Y Gomez,-37.81909895050425,144.955630046627,Mexican Restaurant
+284,Flinders La,Melbourne,-37.8199,144.9558,Boost Juice,-37.818732041819935,144.9539496559519,Juice Bar
+285,Flinders La,Melbourne,-37.8199,144.9558,Spencer Outlet Centre,-37.81692643454814,144.95255686237425,Shopping Mall
+286,Flinders La,Melbourne,-37.8199,144.9558,7-Eleven,-37.816699656965675,144.9531429014534,Convenience Store
+287,Flinders La,Melbourne,-37.8199,144.9558,Grains Galore Bakery & Kebabs,-37.817119,144.953074,Fast Food Restaurant
+288,Flinders La,Melbourne,-37.8199,144.9558,The Coffee Club,-37.81649080861816,144.95272747153797,Café
+289,Flinders La,Melbourne,-37.8199,144.9558,Subway,-37.81680680381693,144.9532268363943,Sandwich Place
+290,Flinders La,Melbourne,-37.8199,144.9558,Nando's,-37.8158299972963,144.95558396293885,Portuguese Restaurant
+291,Therry St,Melbourne,-37.8078,144.961,Books for Cooks,-37.80776,144.95879,Bookstore
+292,Therry St,Melbourne,-37.8078,144.961,Invita,-37.80736029094259,144.95869040655336,Vegetarian / Vegan Restaurant
+293,Therry St,Melbourne,-37.8078,144.961,Rose Garden (玫瑰苑燒臘飯店),-37.80883,144.9604,Chinese Restaurant
+294,Therry St,Melbourne,-37.8078,144.961,Wonderbao,-37.80907787172031,144.96273955813015,Dim Sum Restaurant
+295,Therry St,Melbourne,-37.8078,144.961,ChangGo (창고),-37.809534755763856,144.96171434581686,Korean Restaurant
+296,Therry St,Melbourne,-37.8078,144.961,Hardrock Indoor Rock Climbing,-37.807390307105365,144.96269831823938,Gym / Fitness Center
+297,Therry St,Melbourne,-37.8078,144.961,Queen Victoria Market,-37.80689851156586,144.95795433877774,Market
+298,Therry St,Melbourne,-37.8078,144.961,Captain Melville,-37.80779158143006,144.96163786555684,Gastropub
+299,Therry St,Melbourne,-37.8078,144.961,Queen Victoria Night Market,-37.80752929910894,144.95774999512983,Night Market
+300,Therry St,Melbourne,-37.8078,144.961,Market Lane Coffee,-37.80632560176111,144.95805261878598,Coffee Shop
+301,Therry St,Melbourne,-37.8078,144.961,Pondok Rempah,-37.80735137560666,144.9600534327824,Indonesian Restaurant
+302,Therry St,Melbourne,-37.8078,144.961,Joomak (주막/酒幕) (Joomak),-37.80889272052062,144.96353754732309,Korean Restaurant
+303,Therry St,Melbourne,-37.8078,144.961,Market Lane Coffee,-37.80736677605291,144.95915525013692,Coffee Shop
+304,Therry St,Melbourne,-37.8078,144.961,Humble Rays,-37.80472886414269,144.96192701562697,Café
+305,Therry St,Melbourne,-37.8078,144.961,ABC Chicken,-37.81007738041657,144.95849047002224,Korean Restaurant
+306,Therry St,Melbourne,-37.8078,144.961,The Mussel Pot,-37.80622,144.95808,Food Truck
+307,Therry St,Melbourne,-37.8078,144.961,State Library of Victoria,-37.80998738442444,144.96429920196533,Library
+308,Therry St,Melbourne,-37.8078,144.961,Sung's Kitchen,-37.808543061089054,144.95935491809803,Chinese Restaurant
+309,Therry St,Melbourne,-37.8078,144.961,Shortstop Coffee & Donuts,-37.81124,144.961,Donut Shop
+310,Therry St,Melbourne,-37.8078,144.961,Pickett's Deli & Rotisserie,-37.80704443399615,144.95979031356472,Deli / Bodega
+311,Therry St,Melbourne,-37.8078,144.961,Andrews Hamburgers,-37.80860831875715,144.9591603399962,Burger Joint
+312,Therry St,Melbourne,-37.8078,144.961,Melbourne City Baths,-37.80690013754934,144.96294667548034,Pool
+313,Therry St,Melbourne,-37.8078,144.961,Melbourne Central,-37.81029315475035,144.9630119808904,Shopping Mall
+314,Therry St,Melbourne,-37.8078,144.961,Hometown Asian Supermarket,-37.80862453981092,144.96044071427008,Grocery Store
+315,Therry St,Melbourne,-37.8078,144.961,Brick Lane,-37.81134117627816,144.95981631029085,Café
+316,Therry St,Melbourne,-37.8078,144.961,Mr Burger,-37.809748,144.963784,Burger Joint
+317,Therry St,Melbourne,-37.8078,144.961,State Library Lawn,-37.81002998576426,144.96427274615817,Plaza
+318,Therry St,Melbourne,-37.8078,144.961,Cupcake Central,-37.81032518737598,144.96309043454923,Cupcake Shop
+319,Therry St,Melbourne,-37.8078,144.961,Nando's,-37.809903723294006,144.96122877526793,Portuguese Restaurant
+320,Therry St,Melbourne,-37.8078,144.961,Little Rogue Coffee,-37.810911,144.964027,Coffee Shop
+321,Therry St,Melbourne,-37.8078,144.961,Mecca Maxima,-37.81077231855533,144.96317401862828,Cosmetics Shop
+322,Therry St,Melbourne,-37.8078,144.961,SEPHORA,-37.81039426275246,144.96306307344986,Cosmetics Shop
+323,Therry St,Melbourne,-37.8078,144.961,Laksa House,-37.80842828615087,144.96033668152648,Malay Restaurant
+324,Therry St,Melbourne,-37.8078,144.961,Oriental Spoon,-37.810163070464455,144.9618470304612,Korean Restaurant
+325,Therry St,Melbourne,-37.8078,144.961,Loch and Key,-37.80787601966455,144.96159737501708,Bar
+326,Therry St,Melbourne,-37.8078,144.961,Gong Cha (貢茶),-37.81061924850746,144.96436462817024,Bubble Tea Shop
+327,Therry St,Melbourne,-37.8078,144.961,Padre Coffee,-37.807837216035225,144.9560125935112,Coffee Shop
+328,Therry St,Melbourne,-37.8078,144.961,American Doughnut Kitchen,-37.80725043995238,144.95821900432435,Donut Shop
+329,Therry St,Melbourne,-37.8078,144.961,Boost Juice,-37.81026932499786,144.96353366986375,Juice Bar
+330,Therry St,Melbourne,-37.8078,144.961,Workshop,-37.809269544828005,144.96065141756688,Bar
+331,Therry St,Melbourne,-37.8078,144.961,The Wheeler Centre,-37.810241006700764,144.96510208218308,General Entertainment
+332,Therry St,Melbourne,-37.8078,144.961,Games Laboratory,-37.811726,144.95995,Hobby Shop
+333,Therry St,Melbourne,-37.8078,144.961,Don Don,-37.810736938924215,144.96350688804856,Japanese Restaurant
+334,Therry St,Melbourne,-37.8078,144.961,Borek Bakehouse,-37.80763097946181,144.9601078867395,Turkish Restaurant
+335,Therry St,Melbourne,-37.8078,144.961,Schnitz,-37.81029821949262,144.96240280703952,Fast Food Restaurant
+336,Therry St,Melbourne,-37.8078,144.961,Starbucks,-37.80983448252419,144.9637627980052,Coffee Shop
+337,Therry St,Melbourne,-37.8078,144.961,NeNe Chicken,-37.80914963884931,144.96065164683353,Korean Restaurant
+338,Therry St,Melbourne,-37.8078,144.961,Yeonga Korean BBQ Restaurant,-37.805844696375324,144.95712333240576,Korean Restaurant
+339,Therry St,Melbourne,-37.8078,144.961,The Hardware Société,-37.812010258216525,144.9604973136649,Café
+340,Therry St,Melbourne,-37.8078,144.961,Operator25,-37.81070534953176,144.95707481619982,Café
+341,Therry St,Melbourne,-37.8078,144.961,Naughty Nuri's,-37.8099143157262,144.9633198097662,Indonesian Restaurant
+342,Therry St,Melbourne,-37.8078,144.961,Soul Origin,-37.81028630220872,144.96294999482257,Southern / Soul Food Restaurant
+343,Therry St,Melbourne,-37.8078,144.961,Breadtop,-37.8103330779063,144.96308120847,Bakery
+344,Therry St,Melbourne,-37.8078,144.961,Mr Tulk,-37.80954598157446,144.96438026202642,Café
+345,Therry St,Melbourne,-37.8078,144.961,Mjølner,-37.81214,144.96068,Scandinavian Restaurant
+346,Therry St,Melbourne,-37.8078,144.961,Bratwurst Shop & Co.,-37.807195581730234,144.9595077275704,Hot Dog Joint
+347,Therry St,Melbourne,-37.8078,144.961,Gong Cha,-37.81067566204776,144.96491161715022,Bubble Tea Shop
+348,Therry St,Melbourne,-37.8078,144.961,Shujinko Ramen,-37.808860282556836,144.96054895604382,Ramen Restaurant
+349,Therry St,Melbourne,-37.8078,144.961,Sarawak Kitchen,-37.80782604693592,144.96020344126,Malay Restaurant
+350,Therry St,Melbourne,-37.8078,144.961,Hudsons Coffee,-37.810179,144.962945,Coffee Shop
+351,Therry St,Melbourne,-37.8078,144.961,Frozen By A Thousand Blessings,-37.81092345880658,144.96306448573299,Dessert Shop
+352,Therry St,Melbourne,-37.8078,144.961,Chi-Mac,-37.80720540290989,144.95579804266998,Korean Restaurant
+353,Therry St,Melbourne,-37.8078,144.961,The Moat Bar & Cafe,-37.81029048244798,144.96512775509999,Café
+354,Therry St,Melbourne,-37.8078,144.961,Don Woori,-37.805953739395015,144.95714849740526,Korean Restaurant
+355,Therry St,Melbourne,-37.8078,144.961,Buza Chicken,-37.809914375860785,144.9583371003608,Fried Chicken Joint
+356,Therry St,Melbourne,-37.8078,144.961,STREAT,-37.8103358937059,144.96313143715003,Coffee Shop
+357,Therry St,Melbourne,-37.8078,144.961,Oriental Spoon 2,-37.81176,144.961871,Korean Restaurant
+358,Therry St,Melbourne,-37.8078,144.961,Stovetop,-37.80365213333662,144.96041832839347,Café
+359,Therry St,Melbourne,-37.8078,144.961,Krimper,-37.81127419766101,144.95994196107418,Café
+360,Therry St,Melbourne,-37.8078,144.961,Toodouri Korean Barbeque,-37.80607002478508,144.9577365139066,Korean Restaurant
+361,Therry St,Melbourne,-37.8078,144.961,Woodside Green,-37.80486,144.96445,Café
+362,Therry St,Melbourne,-37.8078,144.961,Rustica,-37.81152790702189,144.96349185547385,Café
+363,Therry St,Melbourne,-37.8078,144.961,Chocolateria San Churro,-37.81048228229806,144.96439406056558,Café
+364,Therry St,Melbourne,-37.8078,144.961,The Queensberry Pour House,-37.804385256858055,144.96181763436667,Café
+365,Therry St,Melbourne,-37.8078,144.961,Aqua S,-37.810654758211264,144.9653385535926,Ice Cream Shop
+366,Therry St,Melbourne,-37.8078,144.961,Bobbie Peels,-37.80384869834859,144.9583200075981,Bar
+367,Therry St,Melbourne,-37.8078,144.961,G2 Korean BBQ,-37.81149455014165,144.96200804761327,Korean Restaurant
+368,Therry St,Melbourne,-37.8078,144.961,Boreks,-37.80705250816158,144.95936862553697,Middle Eastern Restaurant
+369,Therry St,Melbourne,-37.8078,144.961,VIC Marketplace Food Court,-37.80636785876866,144.95844256787083,Food Court
+370,Therry St,Melbourne,-37.8078,144.961,Hello José,-37.80624220819418,144.95571196330246,Taco Place
+371,Therry St,Melbourne,-37.8078,144.961,Coffea Cafe,-37.8065974091116,144.95964655899672,Coffee Shop
+372,Therry St,Melbourne,-37.8078,144.961,Hot Star Large Fried Chicken,-37.8087700780172,144.96085284559476,Fried Chicken Joint
+373,Therry St,Melbourne,-37.8078,144.961,Guzman y Gomez,-37.811168119040445,144.96424836441804,Mexican Restaurant
+374,Therry St,Melbourne,-37.8078,144.961,Big Mama,-37.805922586840964,144.9629722805222,Korean Restaurant
+375,Therry St,Melbourne,-37.8078,144.961,Country Road,-37.811774503595764,144.96365451849465,Clothing Store
+376,Therry St,Melbourne,-37.8078,144.961,GJ's Grill,-37.80991337147556,144.95697573046974,Filipino Restaurant
+377,Therry St,Melbourne,-37.8078,144.961,Mahn Doo,-37.81114835811271,144.9586056595401,Korean Restaurant
+378,Therry St,Melbourne,-37.8078,144.961,Hash Specialty Coffee,-37.8122308366527,144.96057126569383,Café
+379,Therry St,Melbourne,-37.8078,144.961,Hallah,-37.806032148014886,144.95742321688022,Korean Restaurant
+380,Therry St,Melbourne,-37.8078,144.961,Gypsy & Pig,-37.811879654890824,144.96036126240963,Japanese Restaurant
+381,Therry St,Melbourne,-37.8078,144.961,The Waffle Club,-37.807786688674305,144.95706365877203,Dessert Shop
+382,Therry St,Melbourne,-37.8078,144.961,Dracula's Cabaret Restaurant,-37.80672559332707,144.9642221317794,Theme Restaurant
+383,Therry St,Melbourne,-37.8078,144.961,DonToo,-37.81194987641547,144.95982159361412,Japanese Restaurant
+384,Therry St,Melbourne,-37.8078,144.961,Hotel Lincoln,-37.80454017194836,144.96463461507204,Pub
+385,Therry St,Melbourne,-37.8078,144.961,BBQ brothers10,-37.80443961737766,144.9586609044947,BBQ Joint
+386,Therry St,Melbourne,-37.8078,144.961,Soul Soup Cafe,-37.805402690643355,144.96451336156727,Soup Place
+387,Therry St,Melbourne,-37.8078,144.961,Blue Moon Karaoke Bar,-37.80756,144.96609,Bar
+388,Therry St,Melbourne,-37.8078,144.961,Simply Spanish QVM,-37.806812658739325,144.95983499124696,Spanish Restaurant
+389,Therry St,Melbourne,-37.8078,144.961,Anytime Fitness,-37.8120469178837,144.95947734584175,Gym
+390,Therry St,Melbourne,-37.8078,144.961,CJ Lunch Bar (으뜸분식),-37.811909560976645,144.96040022496047,Korean Restaurant
+391,Barries Rd,Melton,-37.68755,144.56887,EB Games,-37.68595193774764,144.56390536612932,Video Game Store
+392,Barries Rd,Melton,-37.68755,144.56887,Nando's,-37.68702687187408,144.56661634613545,Portuguese Restaurant
+393,Barries Rd,Melton,-37.68755,144.56887,Subway,-37.687437,144.566991,Sandwich Place
+394,Barries Rd,Melton,-37.68755,144.56887,7-Eleven,-37.68666348097381,144.56718787770316,Convenience Store
+395,Barries Rd,Melton,-37.68755,144.56887,Woodgrove Shopping Centre,-37.68641116423096,144.56427215304913,Shopping Mall
+396,Barries Rd,Melton,-37.68755,144.56887,Red Rooster,-37.686997250713354,144.56721392851537,Fast Food Restaurant
+397,Barries Rd,Melton,-37.68755,144.56887,Kmart,-37.686237200022816,144.56427360362156,Department Store
+398,Barries Rd,Melton,-37.68755,144.56887,Woolworths,-37.68595834685126,144.56724969663466,Grocery Store
+399,Barries Rd,Melton,-37.68755,144.56887,McDonald's,-37.68777474042168,144.56692095595693,Fast Food Restaurant
+400,Barries Rd,Melton,-37.68755,144.56887,Coles,-37.68579276917224,144.56528903218842,Supermarket
+401,Barries Rd,Melton,-37.68755,144.56887,Hungry Jack's,-37.68481804298531,144.56762724699837,Fast Food Restaurant
+402,Barries Rd,Melton,-37.68755,144.56887,Noodle Land,-37.68590071089415,144.56727465904768,Chinese Restaurant
+403,Barries Rd,Melton,-37.68755,144.56887,Gloria Jean's Coffees,-37.685286,144.565277,Café
+404,Barries Rd,Melton,-37.68755,144.56887,My Mates Pizza,-37.6851126629277,144.56694817799638,Pizza Place
+405,Barries Rd,Melton,-37.68755,144.56887,KFC,-37.68784739521027,144.56610673954333,Fast Food Restaurant
+406,Barries Rd,Melton,-37.68755,144.56887,Bakers Delight,-37.685786357745435,144.56533051049294,Bakery
+407,Barries Rd,Melton,-37.68755,144.56887,The Reject Shop,-37.68546381,144.5654277,Discount Store
+408,Barries Rd,Melton,-37.68755,144.56887,Vodafone,-37.68591854873182,144.56502143118593,Electronics Store
+409,Barries Rd,Melton,-37.68755,144.56887,Melton Pharmore Pharmacy,-37.685382610076736,144.5654010772705,Pharmacy
+410,Barries Rd,Melton,-37.68755,144.56887,Woodgrove Bus Stop,-37.68511,144.564447,Bus Station
+411,Musk Ct,Melton,-37.68734,144.58001000000002,Morgan's SUPA IGA Melton,-37.683590910742794,144.58210493294004,Grocery Store
+412,Musk Ct,Melton,-37.68734,144.58001000000002,Subway,-37.68366748166216,144.58103086711458,Sandwich Place
+413,Musk Ct,Melton,-37.68734,144.58001000000002,NQR Melton,-37.684100282639946,144.5797782604253,Convenience Store
+414,Musk Ct,Melton,-37.68734,144.58001000000002,Fernwood Fitness,-37.683692781718364,144.57836177255973,Gym
+415,Musk Ct,Melton,-37.68734,144.58001000000002,Buddy's Bakery & Cakes,-37.68367,144.582201,Bakery
+416,Musk Ct,Melton,-37.68734,144.58001000000002,Delicious Chinese Restaurant,-37.6829986463624,144.58139487607988,Chinese Restaurant
+417,Musk Ct,Melton,-37.68734,144.58001000000002,Lazy Moes,-37.683952417469946,144.57635261696277,Fast Food Restaurant
+418,Blaxland Rd,Melton South,-37.71195,144.57235,Hume Ave Park,-37.71233546545993,144.56950118760778,Park
+419,Blaxland Rd,Melton South,-37.71195,144.57235,Brinky’s BBall Court,-37.710702,144.576748,Basketball Court
+420,Hobart Rd,Murrumbeena,-37.8867,145.0699,Nature Boy,-37.88998,145.06821,Café
+421,Hobart Rd,Murrumbeena,-37.8867,145.0699,Daniel Son,-37.88998017635345,145.06768088075867,Breakfast Spot
+422,Hobart Rd,Murrumbeena,-37.8867,145.0699,Iron Henry,-37.89004872441129,145.06790703190848,Café
+423,Hobart Rd,Murrumbeena,-37.8867,145.0699,Lotus Pond Chinese Restaurant,-37.88947,145.06704,Chinese Restaurant
+424,Hobart Rd,Murrumbeena,-37.8867,145.0699,Boyd Park,-37.8870569242421,145.07347161580464,Park
+425,Hobart Rd,Murrumbeena,-37.8867,145.0699,Murrumbeena Rd/Dandenong Rd Bus Stop,-37.88461687721055,145.067252361245,Bus Stop
+426,Hobart Rd,Murrumbeena,-37.8867,145.0699,The Collector,-37.888996805569306,145.067028,Antique Shop
+427,Hobart Rd,Murrumbeena,-37.8867,145.0699,East Malvern Urban Forest,-37.883695571990316,145.07241081023216,Park
+428,Hobart Rd,Murrumbeena,-37.8867,145.0699,Three Little Bakers,-37.88932,145.06637,Bakery
+429,Arnott St,Ormond,-37.90296,145.04637,McDonald's,-37.905006589966995,145.044238027111,Fast Food Restaurant
+430,Arnott St,Ormond,-37.90296,145.04637,Subway,-37.90387,145.04132,Sandwich Place
+431,Arnott St,Ormond,-37.90296,145.04637,Handy's Milk Bar,-37.901867,145.044258,Food & Drink Shop
+432,Arnott St,Ormond,-37.90296,145.04637,Home of Lights,-37.904179,145.043748,Lighting Store
+433,Arnott St,Ormond,-37.90296,145.04637,Positano Pizza,-37.90464,145.04347,Pizza Place
+434,Arnott St,Ormond,-37.90296,145.04637,PETstock,-37.90448838900387,145.0421690940857,Pet Store
+435,Pascoe Vale Rd,Pascoe Vale,-37.7237,144.92231999999998,McDonald's,-37.72089385668638,144.92128504954093,Fast Food Restaurant
+436,Pascoe Vale Rd,Pascoe Vale,-37.7237,144.92231999999998,park shops,-37.724198,144.92239,Shopping Mall
+437,Pascoe Vale Rd,Pascoe Vale,-37.7237,144.92231999999998,park museum,-37.724643,144.923884,Art Museum
+438,Pascoe Vale Rd,Pascoe Vale,-37.7237,144.92231999999998,Strathmore Football Club,-37.7276354213083,144.92154599928097,Sports Club
+439,Plenty Rd,Reservoir,-37.7304,145.0158,Disco Beans,-37.734518996030836,145.01358652363774,Japanese Restaurant
+440,Plenty Rd,Reservoir,-37.7304,145.0158,Rose Shamrock,-37.729196062316845,145.01692820547694,Pub
+441,Plenty Rd,Reservoir,-37.7304,145.0158,Ethel,-37.729,145.01723,Café
+442,Plenty Rd,Reservoir,-37.7304,145.0158,Tyler Street Cafe,-37.73122,145.0141,Café
+443,Plenty Rd,Reservoir,-37.7304,145.0158,Tram Stop 54 (86),-37.72780523476701,145.01943772486499,Light Rail Station
+444,Plenty Rd,Reservoir,-37.7304,145.0158,Tram Stop 56 (86),-37.727336188228804,145.01955428980492,Light Rail Station
+445,Canterbury Rd,Toorak,-37.8421,145.0104,Monkey Bean,-37.8409,145.00882,Café
+446,Canterbury Rd,Toorak,-37.8421,145.0104,Toorak Foodstore,-37.840917367870965,145.00948090242497,Deli / Bodega
+447,Canterbury Rd,Toorak,-37.8421,145.0104,Trak Lounge,-37.84085356982189,145.00777868765107,Rock Club
+448,Canterbury Rd,Toorak,-37.8421,145.0104,Townhouse,-37.84139,145.0101,Café
+449,Canterbury Rd,Toorak,-37.8421,145.0104,Romeo's Of Toorak,-37.84114699205169,145.00941554782756,Italian Restaurant
+450,Canterbury Rd,Toorak,-37.8421,145.0104,Zanuba Bar & Restaurant,-37.84050025585954,145.01020951840837,Café
+451,Canterbury Rd,Toorak,-37.8421,145.0104,The Dihnersaw and his Fionsay,-37.84086426374103,145.0087755153383,Breakfast Spot
+452,Canterbury Rd,Toorak,-37.8421,145.0104,Manhattan,-37.84112264581439,145.0094029721883,Australian Restaurant
+453,Canterbury Rd,Toorak,-37.8421,145.0104,Funkies,-37.840905137188116,145.0078071347904,Breakfast Spot
+454,Canterbury Rd,Toorak,-37.8421,145.0104,Sezanas Coffee Shop,-37.841091169710275,145.00827217125203,Coffee Shop
+455,Canterbury Rd,Toorak,-37.8421,145.0104,Laurent Bakery,-37.84103922693412,145.008823434092,Bakery
+456,Canterbury Rd,Toorak,-37.8421,145.0104,Woolworths,-37.840441536725166,145.00864120511278,Grocery Store
+457,Canterbury Rd,Toorak,-37.8421,145.0104,Tok H Centre,-37.840910705000574,145.0083949198471,Shopping Mall
+458,Canterbury Rd,Toorak,-37.8421,145.0104,Browns Bakery,-37.84109,145.00934,Bakery
+459,Canterbury Rd,Toorak,-37.8421,145.0104,Orita Japanese,-37.84051,145.01039,Japanese Restaurant
+460,Canterbury Rd,Toorak,-37.8421,145.0104,Quaff,-37.84124,145.00887,Australian Restaurant
+461,Canterbury Rd,Toorak,-37.8421,145.0104,Alexanders Cigar Merchants,-37.841202,145.010067,Smoke Shop
+462,Canterbury Rd,Toorak,-37.8421,145.0104,Trak Centre,-37.84033147773071,145.007878987957,Shopping Mall
+463,Canterbury Rd,Toorak,-37.8421,145.0104,Safeway,-37.841783601989015,145.01468181610107,Grocery Store
